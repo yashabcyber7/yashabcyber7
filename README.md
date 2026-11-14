@@ -1,74 +1,107 @@
 <div align="center">
-  <img src="assets/logo.png" alt="SwarmDroid Mascot" width="240">
-  <h1>SwarmDroid 🤖✨</h1>
-  <p><strong>Autonomous Multi-Agent AI Ecosystem for Android</strong></p>
-  <p><em>"One companion. An entire swarm of intelligence."</em></p>
 
-  <p>
-    <a href="https://swarm-droid.github.io/swarmdroid/"><img src="https://img.shields.io/badge/Live%20Website-swarm--droid.github.io%2Fswarmdroid-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Website"></a>
-    <a href="https://github.com/swarm-droid/swarmdroid/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Release v1.0.0"></a>
-    <a href="https://github.com/swarm-droid/swarmdroid/releases/download/v1.0.0/app-debug.apk"><img src="https://img.shields.io/badge/Download%20APK-18.5%20MB-B892FF?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"></a>
-    <a href="https://swarm-droid.github.io/swarmdroid/"><img src="https://img.shields.io/badge/CA-Soon%20Available-F59E0B?style=for-the-badge&logo=coinbase&logoColor=black" alt="CA Soon Available"></a>
-  </p>
+# 🛡️ Hey there, I'm Yashab Cyber! 👋
+
+### ⚡ Cybersecurity Researcher | Ethical Hacker | Exploit & Security Tooling Architect
+
+<p align="center">
+  <a href="https://github.com/yashabcyber7"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Offensive+Security+%7C+Red+Teaming;Vulnerability+Research+%26+Exploit+Tooling;Creator+of+HackTheWeb+Security+Framework;Securing+the+Modern+Web+One+Target+at+a+Time" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Role-Security%20Researcher-blue?style=for-the-badge&logo=shield" />
+  <img src="https://img.shields.io/badge/Specialty-Vulnerability%20Assessment-00F5D4?style=for-the-badge&logo=hack-the-box&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github" />
+</p>
+
 </div>
 
 ---
 
-### 🪙 Official Token Contract Address (CA)
+## 👨‍💻 About Me
 
-> [!IMPORTANT]
-> **Contract Address (CA) Status:** `CA Soon Available` ⏳
->
-> • The official smart contract address will be announced **exclusively** on this GitHub profile and our official website: [**https://swarm-droid.github.io/swarmdroid/**](https://swarm-droid.github.io/swarmdroid/).  
-> • **Security Warning:** Beware of copycats, impersonators, and unverified contracts. No team member will ever DM you a token address first.
+I am a passionate **Cybersecurity Researcher and Security Tools Developer** dedicated to uncovering vulnerabilities, developing robust automated penetration testing systems, and strengthening digital infrastructure against modern threat vectors.
 
----
-
-### 🌟 About SwarmDroid
-
-**SwarmDroid** is a breakthrough mobile AI ecosystem that combines an interactive, emotionally-expressive 3D companion mascot with an autonomous multi-agent swarm engine running directly on Android.
-
-- 🤖 **Interactive 3D Mascot:** Real-time 3D OpenGL ES rendering, 14 animation states, touch reactivity, and background floating overlay mode.
-- 🧠 **DAG Swarm Orchestration:** Deconstructs user requests into topological Directed Acyclic Graphs (DAG), resolving concurrent subtasks with bounded concurrency.
-- 🛡️ **Hardware Keystore Encryption:** API keys (Gemini, Claude, OpenAI, Ollama) and sensitive user memories are locked in Android Keystore AES-256-GCM.
-- 👤 **Human-in-the-Loop:** High-impact operations (emails, system settings, social posts) require strict biometric / manual approval modal confirmation.
+- 🔍 **Active Focus:** Web application security, zero-day research, and automated AI-driven offensive tooling.
+- 🚀 **Flagship Project:** Creator of **[HackTheWeb](https://github.com/yashabcyber7/hacktheweb)** — an autonomous, rule-based AI web penetration testing framework.
+- 🛡️ **Methodologies:** OWASP Top 10, PTES (Penetration Testing Execution Standard), OSSTMM, and Red Team Ops.
+- 💡 **Philosophy:** *"The only way to build impenetrable defense is to deeply understand the craft of offensive exploitation."*
 
 ---
 
-### 🤖 The Swarm Agent Roster
+## 🚀 Featured Project
 
-| Agent | Codename | Role |
-| :--- | :--- | :--- |
-| **Master Agent** | `Aegis Prime` | Natural-language deconstruction, DAG dependency graph solver, coordination |
-| **Browser Agent** | `Aura Browser` | Automated web scraping, multi-source search, and content extraction |
-| **Coder Agent** | `ByteForge` | Sandboxed Python & Kotlin AST generation, syntax validation, script execution |
-| **Communication** | `Echo` | Email and messaging composition with strict human approval gates |
-| **Social Media** | `Nexus` | Multi-platform post creation, content calendars, and engagement drafting |
-| **Device Controller** | `DroidLink` | Approved Android OS actions (app launches, TTS, audio, system controls) |
-| **Research Agent** | `Chronos` | Multi-source fact verification, citation cross-checking, structured summaries |
-| **Vector Memory** | `Mnemosyne` | Cosine-similarity embeddings for episodic and semantic mobile recall |
-| **Security Agent** | `Aegis Guardian` | Real-time prompt injection detection, sensitive token redaction |
+### ⚡ [HackTheWeb — AI-Powered Web Application Penetration Testing Framework](https://github.com/yashabcyber7/hacktheweb)
+
+> An enterprise-grade, rule-based AI security scanner that automates vulnerability assessment, reconnaissance, and report generation with zero external ML dependencies.
+
+- 🎯 **Advanced Reconnaissance:** Intelligent passive and active endpoint discovery, tech stack fingerprinting, and surface mapping.
+- 🧪 **Comprehensive Scanner Suite:** Dedicated engines for SQLi, XSS, SSRF, IDOR, LFI/RFI, XXE, SSTI, CORS, and Open Redirects.
+- 🧠 **Adaptive Heuristics:** Dynamic payload mutation based on target response headers, WAF detection, and behavior analysis.
+- 📑 **Actionable Reporting:** Generates detailed Markdown, JSON, and HTML executive reports with remediation guidance.
 
 ---
 
-### 🛠️ Technology Stack
+## 🛠️ Security Arsenal & Technical Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-2.1.0-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=flat-square&logo=android&logoColor=white" alt="Compose">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-Framework-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/SQLite-Room%20DB-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/OpenGL%20ES-3.0%203D-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="OpenGL">
-  <img src="https://img.shields.io/badge/Android%20API-34%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
-</p>
+<table>
+  <tr>
+    <td width="30%"><strong>Offensive Security</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Metasploit-123456?style=flat-square&logo=metasploit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nmap-4D5B9E?style=flat-square&logo=nmap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Architecture & DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔗 Official Ecosystem Links
+## 📊 GitHub Analytics
 
-- 🚀 **Main Repository:** [swarm-droid/swarmdroid](https://github.com/swarm-droid/swarmdroid)
-- 🌐 **Live Website:** [swarm-droid.github.io/swarmdroid](https://swarm-droid.github.io/swarmdroid/)
-- 📱 **Native Client Release:** [Download v1.0.0 APK](https://github.com/swarm-droid/swarmdroid/releases/tag/v1.0.0)
-- 📖 **Technical Architecture:** [Architecture Documentation](https://github.com/swarm-droid/swarmdroid/blob/main/docs/ARCHITECTURE.md)
-- 🪙 **Contract Address Announcement:** [Stay Tuned on Official Website](https://swarm-droid.github.io/swarmdroid/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashabcyber7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=E6EDF3" height="175" alt="Yashab's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashabcyber7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3" height="175" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashabcyber7&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakNum=E6EDF3" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Connect & Collaborate
+
+- 🛡️ **Bug Bounty & Security Reports:** Always open to responsible disclosure collaborations.
+- 💻 **Open Source Projects:** Contributions, discussions, and feature requests are welcome.
+- 📬 **Reach Out:** Connect with me on GitHub [@yashabcyber7](https://github.com/yashabcyber7).
+
+<div align="center">
+  <sub>Designed with precision by <strong>Yashab Cyber</strong> • Securing the open web 🚀</sub>
+</div>
