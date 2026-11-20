@@ -12,12 +12,7 @@
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge&logo=target" />
   <img src="https://img.shields.io/badge/Role-Security%20Researcher-blue?style=for-the-badge&logo=shield" />
   <img src="https://img.shields.io/badge/Specialty-Vulnerability%20Assessment-00F5D4?style=for-the-badge&logo=hack-the-box&logoColor=black" />
-  <a href="https://pump.fun/4ZF1MBuTcMty196BDiBfvUAxm2VAzPUReVDtpR9Wpump"><img src="https://img.shields.io/badge/CA-4ZF1MB...9Wpump-F59E0B?style=for-the-badge&logo=solana&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
-  <code>🪙 Official CA (Solana): <strong>4ZF1MBuTcMty196BDiBfvUAxm2VAzPUReVDtpR9Wpump</strong></code>
 </p>
 
 </div>
